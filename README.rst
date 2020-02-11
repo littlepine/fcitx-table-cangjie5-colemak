@@ -25,6 +25,7 @@ Why
 ==============================
 
 Fcitx's scjc6 uses English letters to form code table. So Fcitx's layout switching cannot keep same word root(字根) at same key position across two layouts. Remapped code table fixes this problem.
+This repo is a fork from [frantic1048/fcitx-table-cangjie5-colemak](https://github.com/frantic1048/fcitx-table-cangjie5-colemak) , but I prefer scjc6 for better error torrance and git rid of minor less used Chinese charater.
 
 Notes
 ==============================
